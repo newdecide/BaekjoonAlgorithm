@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95fb7116-00c7-4046-87f4-e0b1620788f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_09_190815_DP_sticker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BaekjoonAlgorithm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_03_190802_DP123add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_06_190808_DP_pinarynumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_06_190809_DP_pinarynumber.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_07_190810_DP_stairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="2" selection-end-line="35" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_07_190811_DP_stairs.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_08_190812_DP_Ascnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_08_190813_DP_Ascnum.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_09_190814_DP_sticker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_09_190815_DP_sticker.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_01_190728_DP_onemake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_08_190715_Starprint.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_07_190707_Starprint" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j008_Starprint/j008_09_190715_Starprint.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_09_190715_Starprint.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_10_190716_Starprint.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_07_190707_Starprint.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint/k008_11_190716_Starprint.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j009_stack/j009_01_190718_ValidPS.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_01_190718_ValidPS.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j001_add/j001_03_190704_Add.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j002_divide/j002_01_190704_Divide.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j009_stack/j009_02_190719_Ironrod.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_02_190719_Ironrod.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j009_stack/j009_03_190720_Editor.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/k010_queue/k010_190723_Josephus.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k010_queue/k010_190723_Josephus.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k010_queue/j010_190723_Josephus.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k010_queue/k010_190723_Josephus.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j010_queue/j010_190723_Josephus.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_03_190720_Editor.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j011_deque/j011_190725_deque.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k011_deque/k001_190726_deque.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k011_deque/k011_190726_deque.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j012_wordlength/j012_190727_WordLength.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k012_wordlength/k012_190728_WordLength.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_190728_DP_onemake.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_190728_DP_onemake.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_02_190731_DP_tile.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/ko13_02_190801_DP_tile.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_03_190802_DP123add.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_03_190803_DP123add.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_04_190804_DP_tile2.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_04_190805_DP_tile2.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_05_190807_DP_purchase.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_05_190806_DP_purchase.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_190808_DP_LeeChinSoo.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_06_190808_DP_pinarynumber.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_06_190809_DP_pinarynumber.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_07_190809_DP_stairs.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_07_190810_DP_stairs.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_07_190811_DP_stairs.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_08_190813_DP_Ascnum.kt" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_08_190812_DP_Ascnum.java" />
+        <option value="$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_09_190814_DP_sticker.java" />
+        <option value="$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_09_190815_DP_sticker.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="173" />
+    <option name="y" value="23" />
+    <option name="width" value="1352" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaalgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaalgo" type="462c0819:PsiDirectoryNode" />
+              <item name="j013_DinamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinalgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekjoonAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekjoonAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinalgo" type="462c0819:PsiDirectoryNode" />
+              <item name="k013_DinamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaalgo.j013_DinamicProgramming" />
+      <recent name="javaalgo.j011_deque" />
+      <recent name="javaalgo.j009_stack" />
+      <recent name="javaalgo.j008_Starprint" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/kotlinalgo" />
+      <recent name="$PROJECT_DIR$/src/kotlinalgo/k009_stack" />
+      <recent name="$PROJECT_DIR$/src/kotlinalgo/k008_Starprint" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.kotlinalgo.k013_DinamicProgramming.K013_09_190815_DP_stickerKt">
+    <configuration name="j013_08_190812_DP_Ascnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaalgo.j013_DinamicProgramming.j013_08_190812_DP_Ascnum" />
+      <module name="BaekjoonAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaalgo.j013_DinamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="j013_09_190814_DP_sticker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaalgo.j013_DinamicProgramming.j013_09_190814_DP_sticker" />
+      <module name="BaekjoonAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaalgo.j013_DinamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinalgo.k013_DinamicProgramming.K013_07_190811_DP_stairsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="BaekjoonAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinalgo.k013_DinamicProgramming.K013_07_190811_DP_stairsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinalgo.k013_DinamicProgramming.K013_08_190813_DP_AscnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="BaekjoonAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinalgo.k013_DinamicProgramming.K013_08_190813_DP_AscnumKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinalgo.k013_DinamicProgramming.K013_09_190815_DP_stickerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="BaekjoonAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinalgo.k013_DinamicProgramming.K013_09_190815_DP_stickerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.kotlinalgo.k013_DinamicProgramming.K013_09_190815_DP_stickerKt" />
+        <item itemvalue="Application.j013_09_190814_DP_sticker" />
+        <item itemvalue="Kotlin.kotlinalgo.k013_DinamicProgramming.K013_08_190813_DP_AscnumKt" />
+        <item itemvalue="Application.j013_08_190812_DP_Ascnum" />
+        <item itemvalue="Kotlin.kotlinalgo.k013_DinamicProgramming.K013_07_190811_DP_stairsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95fb7116-00c7-4046-87f4-e0b1620788f9" name="Default Changelist" comment="" />
+      <created>1563244775482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563244775482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="173" y="23" width="1352" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49755502" visible="true" weight="0.2816794" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502445" side_tool="true" weight="0.26259542" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32299465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989305" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920255" visible="true" weight="0.32142857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50079745" side_tool="true" weight="0.3022831" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989305" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlinalgo/k012_wordlength/k012_190728_WordLength.kt</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j008_starprint/j008_08_190715_Starprint.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k008_starprint/k008_09_190715_Starprint.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j008_starprint/j008_09_190715_Starprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-line="6" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j008_starprint/j008_07_190707_Starprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k008_starprint/k008_10_190716_Starprint.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k008_starprint/k008_11_190716_Starprint.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j008_starprint/j008_11_190716_Starprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j008_starprint/j008_10_190716_Starprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k008_starprint/k008_07_190707_Starprint.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k008_starprint/k008_08_190715_Starprint.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j001_add/j001_03_190704_Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j001_add/j001_04_190704_Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaekjoonAlgorithm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j009_stack/j009_01_190718_ValidPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j009_stack/j009_02_190719_Ironrod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j009_stack/j009_03_190720_Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j002_divide/j002_01_190704_Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j010_queue/j010_190723_Josephus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_02_190719_Ironrod.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_01_190718_ValidPS.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k009_stack/k009_03_190720_Editor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k010_queue/k010_190723_Josephus.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k012_wordlength/k012_190728_WordLength.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j011_deque/j011_190725_deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j012_wordlength/j012_190727_WordLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_03_190803_DP123add.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_02_190801_DP_tile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_04_190805_DP_tile2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k011_deque/k011_190726_deque.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_05_190807_DP_purchase.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_01_190728_DP_onemake.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_05_190806_DP_purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_04_190804_DP_tile2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_02_190731_DP_tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_03_190802_DP123add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_06_190808_DP_pinarynumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_06_190809_DP_pinarynumber.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_07_190810_DP_stairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="2" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_07_190811_DP_stairs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_08_190812_DP_Ascnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_08_190813_DP_Ascnum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_01_190728_DP_onemake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaalgo/j013_DinamicProgramming/j013_09_190814_DP_sticker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinalgo/k013_DinamicProgramming/k013_09_190815_DP_sticker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
