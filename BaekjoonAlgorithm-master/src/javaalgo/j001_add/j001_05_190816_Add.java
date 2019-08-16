@@ -1,7 +1,5 @@
 package javaalgo.j001_add;
 
-import javafx.application.Application;
-import javafx.stage.Stage;
 import java.util.Scanner;
 
 public class j001_05_190816_Add {
