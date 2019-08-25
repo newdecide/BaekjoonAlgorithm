@@ -38,4 +38,7 @@ public class j012_190824_AlphabetSearch {
         }
         return location;
     }
+
+    // baekjoon
+    // 1 0 -1 -1 2 -1 -1 -1 -1 4 3 -1 -1 7 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 }
