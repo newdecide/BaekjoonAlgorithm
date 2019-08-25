@@ -2,7 +2,7 @@ package javaalgo.j012_wordlength;
 
 import java.util.Scanner;
 
-public class j012_190824_AlphabetSearch {
+public class j012_03_190824_AlphabetSearch {
     // 10809번
     // 알파벳 찾기
     // 수정필요

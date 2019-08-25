@@ -2,7 +2,7 @@ package javaalgo.j012_wordlength;
 
 import java.util.Scanner;
 
-public class j012_190822_AlphabetCount {
+public class j012_02_190822_AlphabetCount {
     // 10808번
     // 알파벳 개수 찾기
     public static void main(String[] args) {

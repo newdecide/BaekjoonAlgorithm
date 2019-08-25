@@ -2,7 +2,7 @@ package javaalgo.j012_wordlength;
 
 import java.util.Scanner;
 
-public class j012_190727_WordLength {
+public class j012_01_190727_WordLength {
     // 2743번
     // 문자열 길이재기
 
