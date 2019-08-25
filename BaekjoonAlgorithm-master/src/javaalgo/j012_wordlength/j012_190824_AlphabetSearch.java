@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class j012_190824_AlphabetSearch {
     // 10809번
     // 알파벳 찾기
+    // 수정필요
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
