@@ -14,7 +14,9 @@ public class j001_07_190826_Add {
         // 숫자중에서 가장 큰수 2개를 더한다.
         Scanner sc = new Scanner(System.in);
         int N = Integer.parseInt(sc.nextLine());
+        // 공백제거
         String[] str = sc.nextLine().split(" ");
+        
         int[] arr = new int[N];
         int[] dp = new int[N];
         int max;
