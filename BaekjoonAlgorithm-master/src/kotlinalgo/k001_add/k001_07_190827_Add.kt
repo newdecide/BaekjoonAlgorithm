@@ -9,8 +9,8 @@ fun main(args: Array<String>) {
     // 10
     // 10 -4 3 1 5 6 -35 12 21 -1
     // 33: 결과값
-
     // 숫자 중에서 가장 큰수 2개를 더한다.
+    
     val sc = Scanner(System.`in`)
     val N = Integer.parseInt(sc.nextLine())
     val str = sc.nextLine().split(" ".toRegex()).dropLastWhile { it.isEmpty() }.toTypedArray()
