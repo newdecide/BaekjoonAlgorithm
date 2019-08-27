@@ -4,8 +4,8 @@ import java.util.*
 
 fun main(args: Array<String>) {
     // 1912번
-    // 연속합
 
+    // 연속합
     // 10
     // 10 -4 3 1 5 6 -35 12 21 -1
     // 33: 결과값
