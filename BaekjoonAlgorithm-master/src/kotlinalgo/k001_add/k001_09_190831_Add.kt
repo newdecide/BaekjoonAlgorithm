@@ -4,6 +4,7 @@ import java.util.*
 
 fun main(args: Array<String>) {
     // 2588번
+    
     // 곱셈연산
     //    472
     //  x 385
