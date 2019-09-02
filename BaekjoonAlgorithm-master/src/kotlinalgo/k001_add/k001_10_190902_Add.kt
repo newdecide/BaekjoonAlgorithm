@@ -5,6 +5,11 @@ import java.util.*
 fun main(args: Array<String>) {
     // 1978
     // 소수 개수 세기
+    // 1과 자신으로 밖에 안 나눠지는 수
+    // 개수 입력 4
+    // 숫자 입력 1 3 5 7
+    // 3 5 7 : 3개
+    
     val sc = Scanner(System.`in`)
 
     val num = sc.nextInt()
