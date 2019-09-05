@@ -1,5 +1,3 @@
-package javaalgo.j001_add;
-
 import java.util.Scanner;
 
 public class j001_02_190704_Add {
