@@ -1,6 +1,8 @@
+package javaalgo.j002_divide;
+
 import java.util.Scanner;
 
-public class j002_02_190820_devide {
+public class j002_02_190820_Divide {
 
 public static void main(String[] args) {
 	// 1075번
