@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BaekjoonAlgorithm.iml" filepath="$PROJECT_DIR$/BaekjoonAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaekjoonAlgorithm-master.iml" filepath="$PROJECT_DIR$/BaekjoonAlgorithm-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/javaalgo/javaalgo.iml" filepath="$PROJECT_DIR$/src/javaalgo/javaalgo.iml" />
     </modules>
   </component>
 </project>

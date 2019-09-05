@@ -9,6 +9,7 @@ public class j001_06_190818_Add {
   // 1 1 1 1 1
   // 7
   // 1 2 3 4 5 6 7
+  // 28
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

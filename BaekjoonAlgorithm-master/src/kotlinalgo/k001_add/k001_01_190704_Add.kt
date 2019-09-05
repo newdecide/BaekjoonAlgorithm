@@ -1,6 +1,5 @@
 package kotlinalgo.k001_add
 
-import jdk.nashorn.internal.objects.Global.println
 import java.util.*
 
 // psvma

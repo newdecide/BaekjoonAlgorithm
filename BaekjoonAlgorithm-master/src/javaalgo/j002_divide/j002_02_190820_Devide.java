@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class j002_02_190820_devide {
 
 public static void main(String[] args) {
-		// 1075번
+	// 1075번
     // 두 정수 N과 F가 주어진다. 
     // 지민이는 정수 N의 가장 뒤 두 자리를 적절히 바꿔서 
     // N을 F로 나누어 떨어지게 만들려고 한다. 
