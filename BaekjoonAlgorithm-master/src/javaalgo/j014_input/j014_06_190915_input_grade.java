@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class j014_06_190915_input_grade {
     public static void main(String[] args) {
         // 9498번
+        
         // 시험 점수를 입력받아
         // 90 ~ 100점은 A, 80 ~ 89점은
         // B, 70 ~ 79점은
