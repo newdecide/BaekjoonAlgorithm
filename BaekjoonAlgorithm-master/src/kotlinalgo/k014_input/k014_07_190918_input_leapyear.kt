@@ -15,8 +15,10 @@ fun main(args: Array<String>) {
     var n = sc.nextInt()
 
     if(n % 4 == 0 && (n % 100 != 0 || n % 400 == 0 )){
+        // 윤년 o
         println("1")
     } else {
+        // 윤년 x
         println("0")
     }
 }
