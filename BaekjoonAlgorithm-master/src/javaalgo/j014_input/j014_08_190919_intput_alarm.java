@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class j014_08_190919_intput_alarm {
     // 2884번
     // 알람 맞추기
+
+    // 입력 10 10
+    // 출력 9 25
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int H = sc.nextInt();
