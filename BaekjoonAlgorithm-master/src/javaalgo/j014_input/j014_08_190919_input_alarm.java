@@ -2,7 +2,7 @@ package javaalgo.j014_input;
 
 import java.util.Scanner;
 
-public class j014_08_190919_intput_alarm {
+public class j014_08_190919_input_alarm {
     // 2884번
     // 알람 맞추기
 
