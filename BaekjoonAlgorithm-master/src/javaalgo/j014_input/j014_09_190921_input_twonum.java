@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class j014_09_190921_input_twonum {
     public static void main(String[] args) {
+        // 10817번
+        // 세 가지 수 중 2번째 수
+
         Scanner sc = new Scanner(System.in);
         int num[] = new int[3];
         int tmp = 0;
