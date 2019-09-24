@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class j014_190923_input_forif {
+	// 10871번
+	// x보다 작은 수
+    
         public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
