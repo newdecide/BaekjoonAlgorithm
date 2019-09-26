@@ -2,7 +2,7 @@ package javaalgo.j014_input;
 
 import java.util.Scanner;
 
-public class j014_190923_input_forif {
+public class j014_10_190923_input_forif {
     // 10871번
     // x보다 작은 수
 
