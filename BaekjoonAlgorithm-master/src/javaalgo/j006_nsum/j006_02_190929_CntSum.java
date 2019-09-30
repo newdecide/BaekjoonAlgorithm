@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class j006_02_190929_CntSum {
     // 2577번
+    // 자릿수 개수세기
     // 150
     // 266
     // 427
