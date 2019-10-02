@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 package javaalgo.j002_divide;
 
+=======
+>>>>>>> 6973150427ce8b3955f49bcef0ff4162896d615d
 import java.io.*;
 import java.util.*;
 
@@ -22,4 +25,8 @@ public class j002_04_191001_Divide{
         br.close();
         bw.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6973150427ce8b3955f49bcef0ff4162896d615d
