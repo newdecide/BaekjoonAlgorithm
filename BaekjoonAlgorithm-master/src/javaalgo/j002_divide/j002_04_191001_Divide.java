@@ -1,3 +1,5 @@
+package javaalgo.j002_divide;
+
 import java.io.*;
 import java.util.*;
 
