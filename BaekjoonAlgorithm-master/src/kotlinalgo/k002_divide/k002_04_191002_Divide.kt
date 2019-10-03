@@ -4,6 +4,22 @@ package kotlinalgo.k002_divide
 import java.io.*
 
 fun main(args: Array<String>) {
+    // 3052번
+    // 나머지
+    // 입력
+    // 39
+    // 40
+    // 41
+    // 42
+    // 43
+    // 44
+    // 82
+    // 83
+    // 84
+    // 85
+    // 출력
+    // 6
+
     val br = BufferedReader(InputStreamReader(System.`in`))
     val bw = BufferedWriter(OutputStreamWriter(System.out))
 

@@ -4,6 +4,21 @@ import java.io.*;
 import java.util.*;
 
 public class j002_04_191001_Divide {
+    // 3052번
+    // 나머지
+    // 입력
+    // 39
+    // 40
+    // 41
+    // 42
+    // 43
+    // 44
+    // 82
+    // 83
+    // 84
+    // 85
+    // 출력
+    // 6
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
