@@ -19,7 +19,4 @@ public class j006_04_191013_Factorial {
 
     }
 
-
-
-
 }
