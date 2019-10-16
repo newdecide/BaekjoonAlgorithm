@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // 2447번
-//
+// 별찍기
 public class j008_12_191015_Starprint {
     private static final Scanner sc = new Scanner(System.in);
     private static char[][] starMap;
