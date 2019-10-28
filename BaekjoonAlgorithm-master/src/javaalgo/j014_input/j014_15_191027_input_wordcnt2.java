@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class j014_15_191027_input_wordcnt2 {
     // 1152
-    // 단어의 개
+    // 단어의 개수
 
     // 입력
     // 출력
