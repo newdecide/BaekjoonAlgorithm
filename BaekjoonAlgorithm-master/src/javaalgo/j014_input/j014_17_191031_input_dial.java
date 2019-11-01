@@ -1,4 +1,4 @@
-package kotlinalgo.k014_input;
+package javaalgo.j014_input;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -56,8 +56,5 @@ public class j014_17_191031_input_dial {
             }
         }
         System.out.println(sum);
-
     }
-
-
 }
