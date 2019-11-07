@@ -9,7 +9,6 @@ public class j014_20_191106_input_honeycomb {
 
     // 입출력
     // 13 -> 3, 58 -> 5
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -21,7 +20,6 @@ public class j014_20_191106_input_honeycomb {
             if(n <= roomNum) {
                 break;
             }
-
             roomNum += addNum;
             addNum += 6;
             rslt++;
